@@ -3,8 +3,8 @@
 ### [Project Page](https://jaminfong.cn/neusample/) | [Paper]()
 
 [NeuSample: Neural Sample Field for Efficient View Synthesis]()  
-[Jiemin Fang](https://jaminfong.cn/)$^1$, [Lingxi Xie](http://lingxixie.com/)$^2$, [Xinggang Wang](https://xinggangw.info/)$^{✉1}$, [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/)$^2$, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)$^1$, [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)$^2$  
-$^1$ HUST, $^2$ Huawei Cloud
+[Jiemin Fang](https://jaminfong.cn/)<sup>1</sup>, [Lingxi Xie](http://lingxixie.com/)<sup>2</sup>, [Xinggang Wang](https://xinggangw.info/)<sup>✉1</sup>, [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/)<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)<sup>2</sup>  
+<sup>1</sup> HUST, <sup>2</sup> Huawei Cloud
 
 -----------------------------
 ![framework](./imgs/framework.jpg)
