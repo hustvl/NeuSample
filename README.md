@@ -2,7 +2,7 @@
 
 ### [Project Page](https://jaminfong.cn/neusample/) | [Paper](https://arxiv.org/abs/2111.15552)
 
-[NeuSample: Neural Sample Field for Efficient View Synthesis](https://arxiv.org/abs/2111.15552)
+[NeuSample: Neural Sample Field for Efficient View Synthesis](https://arxiv.org/abs/2111.15552)   
 [Jiemin Fang](https://jaminfong.cn/)<sup>1</sup>, [Lingxi Xie](http://lingxixie.com/)<sup>2</sup>, [Xinggang Wang](https://xinggangw.info/)<sup>✉1</sup>, [Xiaopeng Zhang](https://sites.google.com/site/zxphistory/)<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)<sup>2</sup>  
 <sup>1</sup> HUST, <sup>2</sup> Huawei Cloud
 
