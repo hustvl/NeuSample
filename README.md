@@ -14,6 +14,12 @@ Neural radiance fields (NeRF) have shown great potentials in representing 3D sce
 * *Oct. 2022* - A preliminary version of code is released.
 * Code will be released here in the future.
 
+## Training
+Train NeuSample by running   
+```
+python -m torch.distributed.launch --nproc_per_node=1 train.py --config configs/"config file"
+```
+
 ## Acknowledgements
 This repository is partially based on [vcnerf](https://github.com/lsongx/vcnerf). Thanks for [Liangchen](https://github.com/lsongx)'s awesome code!
 
